@@ -185,7 +185,7 @@ After the 08/28 class balance update this node changed from fixed 15% chance to 
 
 ![](./assets/st_azure.png)
 
-Enables Azure Sever, see [Falcon Toss](#falcon-toss) and [Wind Fury](#wind-fury).
+Enables Azure Sever, gain 3 stack of [Sharp](#sharp) on hit, see [Falcon Toss](#falcon-toss) and [Wind Fury](#wind-fury).
 
 #### Chasing Step Node
 
@@ -199,7 +199,13 @@ Gain 1 stack of [Sharp](#sharp) when [Chasing Step](#chasing-step) is consumed.
 
 #### Sharp Impact Node
 
-Buffs [Courage](#courage) regen from [Galeform](#galeform-buff). And when both Air Dance Strike and Typhoon: Sharp Impact is active, [Sharp Impact](#sharp-impact) will generates 6 [Sharp stacks](#sharp) on hit.
+Air Dance Strike
+- Buffs [Courage](#courage) regen from [Galeform](#galeform-buff).
+- Grants 3 [Sharp](#sharp) when [Sharp Impact](#sharp-impact) hits.
+
+Typhoon: Sharp Impact
+- The game does not explain this properly, this node will make [Sharp Impact](#sharp-impact) do an additional hit, and that additional hit will grant 3 more [Sharp](#sharp) on top of the 3 from Air Dance Strike.
+- The main purpose of taking this node is to have 6 [Sharp](#sharp) right away after each [Sharp Impact](#sharp-impact).
 
 ![](./assets/st_sharpimpact3.png)
 
@@ -231,10 +237,10 @@ There are some quite "out there" builds for the class, I won't recommend them he
 
 Rotation for the recommended build is actually very simple. 
 1. Use all available imagines, then [Galeform](#galeform).
-2. Jump cancel into [Sharp Impact](#sharp-impact).
+2. Jump cancel into [Sharp Impact](#sharp-impact) (note: gives 6 [Sharp](#sharp) from [these nodes](#sharp-impact-node)).
 3. Ground [Instant Edge](#instant-edge), then 3x [Skyfall](#skyfall).
 4. Air [Instant Edge](#instant-edge) into ground [Instant Edge](#instant-edge).
-5. [Azure Sever](#falcon-toss), then do 1-2x [Skyfall](#skyfall) until 6 stacks of [Sharp](#sharp).
+5. [Azure Sever](#falcon-toss), then do 1-2x [Skyfall](#skyfall) until 6 stacks of [Sharp](#sharp) (note: Azure Sever gives 3 [Sharp](#sharp), from [this node](#azure-sever-node)).
 6. Air [Instant Edge](#instant-edge) into ground [Instant Edge](#instant-edge).
 
 As long as you get 2 [Chasing Step](#chasing-step) procs out of the total 5 [Skyfalls](#skyfall) from step 3 and step 5, your [Sharp Impact](#sharp-impact) will be recharged by the end of step 6, and you can repeat the rotation from step 1 or 2 again. This is why you only need around 40% crit rate (`2 / 5 = 0.4`) to be able to play this rotation smoothly.
