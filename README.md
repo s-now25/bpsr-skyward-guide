@@ -41,6 +41,7 @@
   * [Whale Imagines](#whale-imagines)
   * [F2P / Low Spender Imagines](#f2p--low-spender-imagines)
 * [Modules](#modules)
+* [Updates](#updates)
 * [Footnote](#footnote)
 
 ## Intro
@@ -319,10 +320,19 @@ My recommendation sorted by priority.
 - Elite Damage
 - Attack Speed
 - Strength
-- Crit
 - Agility
+    - Gives flat physical attack, agility and physical damage increase. Agility also increase haste for this class.
+
+Not recommended:
+
+- Crit
+    - Crit mod gives you hp and Lv6 gives 12% crit damage, assuming you have Muku Chief Lv3 (19% crit dmg) and a 45% crit rate, then the actual increase of this mod would only be `((150 + 19 + 12) / (150 + 19) - 1) * 45% = 3.2%` a 3.2% increase. If your crit rate is lower or Muku Chief level is higher then the increase would be even lower.
 
 Although this is sorted by priority, if you get can 3 level 6s low priority ones it's still better than getting level 5s high priority ones. Try to go for 666 or 665.
+
+## Updates
+
+- 09/02/25 Update module recommendations.
 
 ## Footnote
 
