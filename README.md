@@ -1,5 +1,6 @@
 # BPSR: Skyward (Aerial) Wind Knight Comprehensive Guide
 
+* [Video Version of This Guide](#video-version-of-this-guide)
 * [Intro](#intro)
 * [Skills](#skills)
   * [Basic Attack (Left click)](#basic-attack-left-click)
@@ -43,6 +44,10 @@
 * [Modules](#modules)
 * [Updates](#updates)
 * [Footnote](#footnote)
+
+## Video Version of This Guide
+
+[https://youtu.be/rotHMENL6Ek](https://youtu.be/rotHMENL6Ek)
 
 ## Intro
 
@@ -317,9 +322,10 @@ Currently I don't have enough data to tell if there's any min / max breakpoints 
 
 My recommendation sorted by priority.
 
+- Strength
 - Elite Damage
 - Attack Speed
-- Strength
+    - Higher priority if your attack speed is lower than 20%
 - Agility
     - Gives flat physical attack, agility and physical damage increase. Agility also increase haste for this class.
 
@@ -333,6 +339,7 @@ Although this is sorted by priority, if you get can 3 level 6s low priority ones
 ## Updates
 
 - 09/02/25 Update module recommendations.
+- 09/02/25 Added link to youtube version of this guide.
 
 ## Footnote
 
