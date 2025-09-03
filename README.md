@@ -324,17 +324,18 @@ My recommendation sorted by priority.
 
 - Strength
 - Elite Damage
-- Attack Speed
-    - Higher priority if your attack speed is lower than 20%
 - Agility
     - Gives flat physical attack, agility and physical damage increase. Agility also increase haste for this class.
+- Attack Speed
+    - Higher priority if your attack speed is lower than 20%
+
 
 Not recommended:
 
 - Crit
     - Crit mod gives you hp and Lv6 gives 12% crit damage, assuming you have Muku Chief Lv3 (19% crit dmg) and a 45% crit rate, then the actual increase of this mod would only be `((150 + 19 + 12) / (150 + 19) - 1) * 45% = 3.2%` a 3.2% increase. If your crit rate is lower or Muku Chief level is higher then the increase would be even lower.
 
-Although this is sorted by priority, if you get can 3 level 6s low priority ones it's still better than getting level 5s high priority ones. Try to go for 666 or 665.
+Although this is sorted by priority, if you get can 3 level 6s lower priority ones it's still better than getting level 5s high priority ones. Focus on getting 2 level 6 first, then follow the priority list if you can afford to choose, last try to go for 666 or 665 as an end goal.
 
 ## Updates
 
