@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Skyward (Aerial) Wind Knight Comprehensive Guide
-toc: true
+google_analytics: G-S37XL7P670
 plugins:
 - jekyll-remote-theme
