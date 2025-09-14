@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S37XL7P670"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S37XL7P670');
+</script>
+
 # BPSR: Skyward (Aerial) Wind Knight Comprehensive Guide
 
 * [Video Version of This Guide](#video-version-of-this-guide)
