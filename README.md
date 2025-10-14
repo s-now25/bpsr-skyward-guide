@@ -3,6 +3,7 @@
 * [Video Version of This Guide](#video-version-of-this-guide)
 * [Intro](#intro)
 * [Skills](#skills)
+  * [TLDR: Advance Order (the one that uses skill books)](#tldr-advance-order-the-one-that-uses-skill-books)
   * [Basic Attack (Left click)](#basic-attack-left-click)
   * [Skyfall](#skyfall)
   * [Typhoon Cleave](#typhoon-cleave)
@@ -27,6 +28,19 @@
     * [Sharp Impact Node](#sharp-impact-node)
     * [Wind Fury Node](#wind-fury-node)
   * [Skilltree Build](#skilltree-build)
+    * [Leveling Up Builds](#leveling-up-builds)
+      * [Day 3, Level 33, Talent Points 35](#day-3-level-33-talent-points-35)
+      * [Day 4, Level 38, Talent Points 39](#day-4-level-38-talent-points-39)
+      * [Day 5, Level 42, Talent Points 42](#day-5-level-42-talent-points-42)
+      * [Day 6, Level 47, Talent Points 46](#day-6-level-47-talent-points-46)
+      * [Day 7, Level 50, Talent Points 52](#day-7-level-50-talent-points-52)
+      * [Day 8, Level 53, Talent Points 56](#day-8-level-53-talent-points-56)
+      * [Day 9, Level 56, Talent Points 57](#day-9-level-56-talent-points-57)
+      * [Day 10, Level 57, Talent Points 59](#day-10-level-57-talent-points-59)
+      * [Day 11, Level 58, Talent Points 62](#day-11-level-58-talent-points-62)
+      * [Day 12, Level 59, Talent Points 64](#day-12-level-59-talent-points-64)
+      * [Day 14, Level 60, Talent Points 66](#day-14-level-60-talent-points-66)
+      * [Day 17, Level 60, Talent Points 68](#day-17-level-60-talent-points-68)
     * [Recommended Build](#recommended-build)
     * [Other Builds](#other-builds)
 * [Rotation](#rotation)
@@ -41,6 +55,7 @@
 * [Imagines](#imagines)
   * [Whale Imagines](#whale-imagines)
   * [F2P / Low Spender Imagines](#f2p--low-spender-imagines)
+  * [Celestial Flyer](#celestial-flyer)
 * [Modules](#modules)
 * [Updates](#updates)
 * [Footnote](#footnote)
@@ -58,6 +73,12 @@ This class uses strength gear, which is the same type of gear both tank classes 
 This class is not the top dps class, if you want to play a top dps class I recommend you play Marksman (Bow) instead.
 
 ## Skills
+
+### TLDR: Advance Order (the one that uses skill books)
+
+[Instant Edge](#instant-edge) > [Galeform](#galeform) > [Skyfall](#skyfall) >>> [Falcon Toss](#falcon-toss) = [Sharp Impact](#sharp-impact) >>> Basic attack = Ult
+
+For skill upgrade (the one that cost bound luno) just upgrade everything to max
 
 ### Basic Attack (Left click)
 
@@ -229,6 +250,41 @@ Enable double recharge for [Instant Edge](#instant-edge) with [Chasing Step](#ch
 
 ### Skilltree Build
 
+#### Leveling Up Builds
+
+##### Day 3, Level 33, Talent Points 35
+
+![](./assets/skilltree_35.png)
+
+##### Day 4, Level 38, Talent Points 39
+
+![](./assets/skilltree_39.png)
+
+##### Day 5, Level 42, Talent Points 42
+
+![](./assets/skilltree_42.png)
+
+##### Day 6, Level 47, Talent Points 46
+
+![](./assets/skilltree_46.png)
+
+##### Day 7, Level 50, Talent Points 52
+
+##### Day 8, Level 53, Talent Points 56
+
+##### Day 9, Level 56, Talent Points 57
+
+##### Day 10, Level 57, Talent Points 59
+
+##### Day 11, Level 58, Talent Points 62
+
+##### Day 12, Level 59, Talent Points 64
+
+##### Day 14, Level 60, Talent Points 66
+
+##### Day 17, Level 60, Talent Points 68
+
+
 #### Recommended Build
 
 Blue highlights the core of the build, at level 60 gear (70 weapon), you want take the yellow path for tornado damage increase. Even though tornado damage is nerfed on 08/28 class balance update, it is still the highest damage contributor.
@@ -318,6 +374,10 @@ Currently I don't have enough data to tell if there's any min / max breakpoints 
 - Muku Scout greatly outperforms Storm Goblin Warrior, as long as rotation is properly executed Muku Scout's buff will have 100% uptime.
 - Muku Scout's description is not very accurate, but basically you just need to do damage at least 10 times per 5 seconds to maintain the buff, which is easily achiveable with my recommended stats and rotation.
 
+### Celestial Flyer
+
+TODO
+
 ## Modules
 
 My recommendation sorted by priority.
@@ -341,6 +401,9 @@ Although this is sorted by priority, if you get can 3 level 6s lower priority on
 
 - 09/02/25 Update module recommendations.
 - 09/02/25 Added link to youtube version of this guide.
+- 10/14/25
+  - Added leveling up skilltree builds
+  - added TLDR Skill Advance Order
 
 ## Footnote
 
