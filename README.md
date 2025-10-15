@@ -270,6 +270,8 @@ Enable double recharge for [Instant Edge](#instant-edge) with [Chasing Step](#ch
 
 ##### Day 7, Level 50, Talent Points 52
 
+![](./assets/skilltree_52.png)
+
 ##### Day 8, Level 53, Talent Points 56
 
 ##### Day 9, Level 56, Talent Points 57
