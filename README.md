@@ -50,6 +50,7 @@
     * [Crit](#crit)
     * [Haste](#haste)
     * [Luck](#luck)
+  * [Rune Gear](#rune-gear)
   * [Lv60 Gear & Gems](#lv60-gear--gems)
   * [Lv80 Gear & Gems](#lv80-gear--gems)
 * [Imagines](#imagines)
@@ -202,7 +203,7 @@ The in game description of tornado is very lacking, I'll explain in details how 
 
 #### Instant Edge Combo Node
 
-After the 08/28 class balance update this node changed from fixed 15% chance to the same chance as your lucky hit proc, which is your luck percentage. And the damage will be [Instant Edge's](#instant-edge) damage (with all its applicable multiplier) x Lucky Hit DMG multiplier. On my character with 4pc Lv60 class gear + Lv70 weapon, this multiplier is about 100%, which means whenever this procs [Instant Edge](#instant-edge) does 2x damage.
+After the 08/28 class balance update this node changed from fixed 15% chance to the same chance as your lucky hit proc, which is your luck percentage. And the damage will be [Instant Edge's](#instant-edge) damage (with all its applicable multiplier) x Lucky Hit DMG multiplier. On my character with 4pc Lv60 [rune gear](#rune-gear) + Lv70 weapon, this multiplier is about 100%, which means whenever this procs [Instant Edge](#instant-edge) does 2x damage.
 
 | Old                       | New                    |
 |:--------------------------|:-----------------------|
@@ -295,7 +296,9 @@ Blue highlights the core of the build, at level 60 gear (70 weapon), you want ta
 
 #### Other Builds
 
-There are some quite "out there" builds for the class, I won't recommend them here because those build go against the devs' idea of this class (you build stats that the game does not recommend), and you would have to invest in different (gold) imagines. If these "out there" builds are too strong and catches the devs' attention they will be balanced and nerfed just like the tornado meta. I'd like to avoid having people come to me and say they got scammed after investing in imagines that now become useless for the class because they followed my guide to build an "out there" build and the devs nerf it. With that being said, if you are still interested you can contact me and I can explain these other builds to you privately.
+There are more build options available as we get into lv 60, 80 and [rune gear](#rune-gear). I'll be adding these build options soon to this guide.
+
+There used to be some off meta build that are viable (on CBT patch) but after the class balance update it doesn't work well anymore.
 
 ## Rotation
 
@@ -345,18 +348,25 @@ For reference my character with Lv60 gear is at 25% attack speed, with up coming
 
 #### Luck
 
-With the 08/28 class balance update, luck will now somewhat scale, see [Instant Edge Combo](#instant-edge-combo-node).
+With the 08/28 class balance update, luck will now somewhat scale, see [Instant Edge Combo](#instant-edge-combo-node), but the scaling is still very low. You get luck from [rune gear](#rune-gear) regardless, my recommendation is to try to get non-luck stat on other non-rune gear pieces, all other stats (crit, haste, mastery, versatility) scales better than luck.
 
-Currently I don't have enough data to tell if there's any min / max breakpoints or sweet spot to reach, so for now I'd just recommend getting 6 piece class set gear and don't go out of your way to build luck.
+### Rune Gear
+
+When 20 man dragon raid becomes available (I think around 1 month after server goes live) rune gear will also become available.
+- These gears are available on 6 of the slots: Helmet, Armor, Gauntlet, Boot, Bracelet(L), Bracelet(R).
+- These gears will not have rng substat, it will always give the 2 thumbs up substats for your class and changes as you change class.
+- Both substats will be high roll, unlike normal gear with 1 high 1 low roll.
+- These gears will not have a purple line, and instead have a 2 piece and 4 piece set effect, these effects are different for different classes.
+- For this class that means we will get crit and luck
 
 ### Lv60 Gear & Gems
-- Get 6 piece class gear
+- Get 6 piece [rune gear](#rune-gear)
 - Reach 40% Crit
 - Reach 20% Attack Speed
 - Slot your gems and reforge your 3rd sub stat on gear based on what stat you are missing, if you have both 40% crit and 20% attack speed then I'd recommended going for haste for more attack speed.
 
 ### Lv80 Gear & Gems
-- Get 4 piece class gear
+- Get 4 piece [rune gear](#rune-gear)
 - TODO: update crit, AS targets
 
 ## Imagines
@@ -404,8 +414,12 @@ Although this is sorted by priority, if you get can 3 level 6s lower priority on
 - 09/02/25 Update module recommendations.
 - 09/02/25 Added link to youtube version of this guide.
 - 10/14/25
-  - Added leveling up skilltree builds
-  - added TLDR Skill Advance Order
+  - Added leveling up skilltree builds.
+  - Added TLDR Skill Advance Order.
+- 10/15/25
+  - Update [Other Builds](#other-builds).
+  - Update [Luck](#luck) explaination.
+  - Change class gear to rune gear, and added [rune gear description](#rune-gear).
 
 ## Footnote
 
