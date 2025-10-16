@@ -275,6 +275,10 @@ Enable double recharge for [Instant Edge](#instant-edge) with [Chasing Step](#ch
 
 ##### Day 8, Level 53, Talent Points 56
 
+You can choose between yellow and red path based on your own preference.
+
+![](./assets/skilltree_56.png)
+
 ##### Day 9, Level 56, Talent Points 57
 
 ##### Day 10, Level 57, Talent Points 59
