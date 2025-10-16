@@ -281,6 +281,8 @@ You can choose between yellow and red path based on your own preference.
 
 ##### Day 9, Level 56, Talent Points 57
 
+![](./assets/skilltree_57.png)
+
 ##### Day 10, Level 57, Talent Points 59
 
 ##### Day 11, Level 58, Talent Points 62
