@@ -42,9 +42,15 @@
       * [Day 14, Level 60, Talent Points 66](#day-14-level-60-talent-points-66)
       * [Day 17, Level 60, Talent Points 68](#day-17-level-60-talent-points-68)
       * [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70)
-    * [Recommended Build](#recommended-build)
-    * [Other Builds](#other-builds)
+  * [Recommended Builds By Gear Level](#recommended-builds-by-gear-level)
+    * [Level 40 Gear Build](#level-40-gear-build)
+    * [Level 60 Gear Build](#level-60-gear-build)
+      * [Level 60 Normal Gear](#level-60-normal-gear)
+      * [Level 60 Rune Gear and Level 70 Red Weapon](#level-60-rune-gear-and-level-70-red-weapon)
+      * [Why Pick Break Style over Momentum Surge?](#why-pick-break-style-over-momentum-surge)
+    * [Level 80 Gear Build](#level-80-gear-build)
 * [Rotation](#rotation)
+  * [40% Crit Rate](#40-crit-rate)
   * [Courage Management and Other Nuances](#courage-management-and-other-nuances)
 * [Gear and Stats](#gear-and-stats)
   * [Stats](#stats)
@@ -52,8 +58,8 @@
     * [Haste](#haste)
     * [Luck](#luck)
   * [Rune Gear](#rune-gear)
-  * [Lv60 Gear & Gems](#lv60-gear--gems)
-  * [Lv80 Gear & Gems](#lv80-gear--gems)
+  * [Lv60 Gear and Gems](#lv60-gear-and-gems)
+  * [Lv80 Gear and Gems](#lv80-gear-and-gems)
 * [Imagines](#imagines)
   * [Whale Imagines](#whale-imagines)
   * [F2P / Low Spender Imagines](#f2p--low-spender-imagines)
@@ -324,17 +330,74 @@ This is the first day to take 3 sharp instant edge node (red path), but if your 
 
 ![](./assets/skilltree_70.png)
 
-#### Recommended Build
+### Recommended Builds By Gear Level
 
-Blue highlights the core of the build, at level 60 gear (70 weapon), you want take the yellow path for tornado damage increase. Even though tornado damage is nerfed on 08/28 class balance update, it is still the highest damage contributor.
+#### Level 40 Gear Build
+
+TLDR:
+- Stat Priority: Crit >>> Haste > Mastery = Versatility >>> Luck
+- [Skilltree](#day-19-level-60-talent-points-70)
+
+
+Level 40 gears do not give enough crit to reach [40% Crit Rate](#40-crit-rate), with BiS gear we get to around 32-33%, so just use the same skilltree as [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70), and build as much crit as possible.
+
+This is what stat would look like with BIS gear and level 3 gems.
+
+![](./assets/lv40stat.png)
+(note: This does not account for any purple line on gear, and Haste is affected by Agility slightly, I use 280 Agility here for calculation, but this value could be higher.)
+
+#### Level 60 Gear Build
+
+##### Level 60 Normal Gear
+
+TLDR:
+- Stat Priority: Crit > Haste > Mastery = Versatility >>> Luck
+- [Skilltree](#day-19-level-60-talent-points-70)
+
+
+With level 60 gear we can barely reach [40% Crit Rate](#40-crit-rate), you'd need all the high crit rolls and crit 3rd roll and crit gems.
+Skilltree is the same as [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70), since we don't have enough luck to take advantage of [Instant Edge Combo](#instant-edge-combo-node) yet.
+
+This is what stat would look like with BIS gear and level 5 gems. I also included an additional attack speed calculation if you have T0 [Celestial Flier](#celestial-flyer).
+
+![](./assets/lv60stat.png)
+(note: This does not account for any purple line on gear, and Haste is affected by Agility slightly, I use 280 Agility here for calculation, but this value could be higher.)
+
+##### Level 60 Rune Gear and Level 70 Red Weapon
+
+TLDR:
+- Stat Priority: Crit (up till 40%) > Haste > Mastery = Versatility >>> Luck
+- Skilltree: see below
+
+With [rune gear](#rune-gear) and red weapon we have more than enough stat to reach [40% Crit Rate](#40-crit-rate), and the extra stat can be used for Haste, you do this with gems and by rerolling the 3rd roll of your gear.
+
+BiS gear in this case is:
+- Level 70 red weapon.
+- Rune gear on Bracelet(L), because this slot does not roll crit.
+- Rune gear on Bracelet(R), because this slot does not roll crit.
+- Rune gear on Gauntlets, because this slot does not roll haste.
+- Rune gear on Armor or Helmet, just pick whichever one has the worse stat from your own gear.
+
+For BiS gear it's better to use 4 piece rune instead of 6, because you can get 1.5% strength purple line and Haste roll on the other 2 slots, which are much much better than the Luck that rune gear gives.
+
+This is what stat would look like with BIS gear and level 5 gems. I also included an additional attack speed calculation if you have T0 [Celestial Flier](#celestial-flyer).
+
+![](./assets/lv60runestat.png)
+(note: This does not account for any purple line on gear, and Haste is affected by Agility slightly, I use 280 Agility here for calculation, but this value could be higher.)
+
+Because we get 20+% crit from rune gear and red weapon, we swap Momentum Surge for [Instant Edge Combo](#instant-edge-combo-node).
 
 ![](./assets/skilltree.png)
 
-#### Other Builds
+##### Why Pick Break Style over Momentum Surge?
 
-There are more build options available as we get into lv 60, 80 and [rune gear](#rune-gear). I'll be adding these build options soon to this guide.
+Why do we swap Momentum Surge for Instant Edge Combo? Why not swap Break Style?
 
-There used to be some off meta build that are viable (on CBT patch) but after the class balance update it doesn't work well anymore.
+Momentum Surge's effect is not active whenever we go in the air because we fly too high, that means our tornado damage will suffer everytime we go in the air (which happens quite often). Additionally this buff's calculation and application is delayed and affected by server lags, which further reduces its effectiveness. Momentum Surge is only strong on paper and has a lot of problems in practice.
+
+#### Level 80 Gear Build
+
+TODO:
 
 ## Rotation
 
@@ -345,6 +408,8 @@ Rotation for the recommended build is actually very simple.
 4. Air [Instant Edge](#instant-edge) into ground [Instant Edge](#instant-edge).
 5. [Azure Sever](#falcon-toss), then do 1-2x [Skyfall](#skyfall) until 6 stacks of [Sharp](#sharp) (note: Azure Sever gives 3 [Sharp](#sharp), from [this node](#azure-sever-node)).
 6. Air [Instant Edge](#instant-edge) into ground [Instant Edge](#instant-edge).
+
+### 40% Crit Rate
 
 As long as you get 2 [Chasing Step](#chasing-step) procs out of the total 5 [Skyfalls](#skyfall) from step 3 and step 5, your [Sharp Impact](#sharp-impact) will be recharged by the end of step 6, and you can repeat the rotation from step 1 or 2 again. This is why you only need around 40% crit rate (`2 / 5 = 0.4`) to be able to play this rotation smoothly.
 
@@ -366,7 +431,7 @@ There are many many more scenarios, as you play more you will start to get a fee
 
 #### Crit
 
-We need 40% crit rate to be able to perform rotation as explained in the [Rotation](#rotation) section. Once 40% is reached, stacking more crit doesn't provide as much value as other stats such as haste.
+We need 40% crit rate to be able to perform rotation as explained in [40% Crit Rate](#40-crit-rate). Once 40% is reached, stacking more crit doesn't provide as much value as other stats such as haste.
 
 #### Haste
 
@@ -395,13 +460,13 @@ When 20 man dragon raid becomes available (I think around 1 month after server g
 - These gears will not have a purple line, and instead have a 2 piece and 4 piece set effect, these effects are different for different classes.
 - For this class that means we will get crit and luck
 
-### Lv60 Gear & Gems
+### Lv60 Gear and Gems
 - Get 6 piece [rune gear](#rune-gear)
 - Reach 40% Crit
 - Reach 20% Attack Speed
 - Slot your gems and reforge your 3rd sub stat on gear based on what stat you are missing, if you have both 40% crit and 20% attack speed then I'd recommended going for haste for more attack speed.
 
-### Lv80 Gear & Gems
+### Lv80 Gear and Gems
 - Get 4 piece [rune gear](#rune-gear)
 - TODO: update crit, AS targets
 
@@ -460,6 +525,8 @@ Although this is sorted by priority, if you get can 3 level 6s lower priority on
   - Update [Leveling Up Builds](#leveling-up-builds)
 - 10/16/25
   - Update [Leveling Up Builds](#leveling-up-builds)
+- 10/16/25
+  - Rewrote the old Recommended Build sections, it's now [Recommended Builds By Gear Level](#recommended-builds-by-gear-level).
 
 ## Footnote
 
