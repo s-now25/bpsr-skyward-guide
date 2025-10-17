@@ -41,6 +41,7 @@
       * [Day 12, Level 59, Talent Points 64](#day-12-level-59-talent-points-64)
       * [Day 14, Level 60, Talent Points 66](#day-14-level-60-talent-points-66)
       * [Day 17, Level 60, Talent Points 68](#day-17-level-60-talent-points-68)
+      * [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70)
     * [Recommended Build](#recommended-build)
     * [Other Builds](#other-builds)
 * [Rotation](#rotation)
@@ -253,6 +254,20 @@ Enable double recharge for [Instant Edge](#instant-edge) with [Chasing Step](#ch
 
 #### Leveling Up Builds
 
+- [Day 3, Level 33, Talent Points 35](#day-3-level-33-talent-points-35)
+- [Day 4, Level 38, Talent Points 39](#day-4-level-38-talent-points-39)
+- [Day 5, Level 42, Talent Points 42](#day-5-level-42-talent-points-42)
+- [Day 6, Level 47, Talent Points 46](#day-6-level-47-talent-points-46)
+- [Day 7, Level 50, Talent Points 52](#day-7-level-50-talent-points-52)
+- [Day 8, Level 53, Talent Points 56](#day-8-level-53-talent-points-56)
+- [Day 9, Level 56, Talent Points 57](#day-9-level-56-talent-points-57)
+- [Day 10, Level 57, Talent Points 59](#day-10-level-57-talent-points-59)
+- [Day 11, Level 58, Talent Points 62](#day-11-level-58-talent-points-62)
+- [Day 12, Level 59, Talent Points 64](#day-12-level-59-talent-points-64)
+- [Day 14, Level 60, Talent Points 66](#day-14-level-60-talent-points-66)
+- [Day 17, Level 60, Talent Points 68](#day-17-level-60-talent-points-68)
+- [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70)
+
 ##### Day 3, Level 33, Talent Points 35
 
 ![](./assets/skilltree_35.png)
@@ -285,14 +300,29 @@ You can choose between yellow and red path based on your own preference.
 
 ##### Day 10, Level 57, Talent Points 59
 
+This is the first day to take 3 sharp instant edge node (red path), but if your crit is too low and feel that you are constantly running out of resources then you can take yellow path instead.
+
+![](./assets/skilltree_59.png)
+
 ##### Day 11, Level 58, Talent Points 62
+
+![](./assets/skilltree_62.png)
 
 ##### Day 12, Level 59, Talent Points 64
 
+![](./assets/skilltree_64.png)
+
 ##### Day 14, Level 60, Talent Points 66
+
+![](./assets/skilltree_66.png)
 
 ##### Day 17, Level 60, Talent Points 68
 
+![](./assets/skilltree_68.png)
+
+##### Day 19, Level 60, Talent Points 70
+
+![](./assets/skilltree_70.png)
 
 #### Recommended Build
 
@@ -426,6 +456,10 @@ Although this is sorted by priority, if you get can 3 level 6s lower priority on
   - Update [Other Builds](#other-builds).
   - Update [Luck](#luck) explaination.
   - Change class gear to rune gear, and added [rune gear description](#rune-gear).
+- 10/16/25
+  - Update [Leveling Up Builds](#leveling-up-builds)
+- 10/16/25
+  - Update [Leveling Up Builds](#leveling-up-builds)
 
 ## Footnote
 
