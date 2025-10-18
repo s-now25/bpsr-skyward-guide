@@ -474,13 +474,13 @@ When 20 man dragon raid becomes available (I think around 1 month after server g
 
 ### Whale Imagines
 
-| lv5 Muku               | lv5 Goblin King            |
+| lv5 Muku Chief         | lv5 Goblin King            |
 |:-----------------------|:---------------------------|
 | ![](./assets/muku.png) | ![](./assets/goboking.png) |
 
 ### F2P / Low Spender Imagines
 
-| lv(0-3) Muku           | lv5 Muku Scout              |
+| lv(0-3) Muku Chief     | lv5 Muku Scout              |
 |:-----------------------|:----------------------------|
 | ![](./assets/muku.png) | ![](./assets/mukuscout.png) |
 
@@ -489,7 +489,13 @@ When 20 man dragon raid becomes available (I think around 1 month after server g
 
 ### Celestial Flyer
 
-TODO
+Celestial Flier is also a good option for Skyward, even for f2p players. At lv0 it's comparable to lv5 Muku Scout over a 3 minute dummy parse, but in a lot of the content such as dungeons and 20 man raid it will out perform Muku Scout, because Scout will lose its passive stacks whenever boss enter mechanic.
+
+If you are f2p you can use lv0 Flier with Muku Chief, and focus only on upgrading Muku Chief, leaving Flier at 0.
+
+For Whales with both imagines being at lv5. Muku Chief, Goblin King and Celestial Flier, any 2 of those 3 imagines perform about the same, there doesn't seem to be a combination that greatly outperforms the others.
+
+With that being said, Muku Chief is the most versatile, it can be used by pretty much all dps classes so it's great for people that play more than 1 class. Goblin King is pretty much only strong when it's high level, and it's pretty much only used by Skyward. Celestial Flier has the best price to performance ratio (best bang for your bucks) at low level (lv0, lv1), it can also be used by a few other classes (Moonstrike, Vanguard, etc).
 
 ## Modules
 
@@ -523,10 +529,11 @@ Although this is sorted by priority, if you get can 3 level 6s lower priority on
   - Change class gear to rune gear, and added [rune gear description](#rune-gear).
 - 10/16/25
   - Update [Leveling Up Builds](#leveling-up-builds)
-- 10/16/25
+- 10/17/25
   - Update [Leveling Up Builds](#leveling-up-builds)
-- 10/16/25
   - Rewrote the old Recommended Build sections, it's now [Recommended Builds By Gear Level](#recommended-builds-by-gear-level).
+- 10/18/25
+  - Update [Celestial Flyer](#celestial-flyer) section.
 
 ## Footnote
 
