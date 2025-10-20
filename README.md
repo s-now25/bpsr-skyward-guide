@@ -47,7 +47,7 @@
     * [Level 60 Gear Build](#level-60-gear-build)
       * [Level 60 Normal Gear](#level-60-normal-gear)
       * [Level 60 Rune Gear and Level 70 Red Weapon](#level-60-rune-gear-and-level-70-red-weapon)
-      * [Why Pick Break Style over Momentum Surge?](#why-pick-break-style-over-momentum-surge)
+      * [Break Style vs Momentum Surge](#break-style-vs-momentum-surge)
     * [Level 80 Gear Build](#level-80-gear-build)
 * [Rotation](#rotation)
   * [40% Crit Rate](#40-crit-rate)
@@ -389,9 +389,9 @@ Because we get 20+% crit from rune gear and red weapon, we swap Momentum Surge f
 
 ![](./assets/skilltree.png)
 
-##### Why Pick Break Style over Momentum Surge?
+##### Break Style vs Momentum Surge
 
-Why do we swap Momentum Surge for Instant Edge Combo? Why not swap Break Style?
+Between Momentum Surge and Break Style, Break Style is generally better because of issues that Momentum Surge has.
 
 Momentum Surge's effect is not active whenever we go in the air because we fly too high, that means our tornado damage will suffer everytime we go in the air (which happens quite often). Additionally this buff's calculation and application is delayed and affected by server lags, which further reduces its effectiveness. Momentum Surge is only strong on paper and has a lot of problems in practice.
 
@@ -499,22 +499,22 @@ With that being said, Muku Chief is the most versatile, it can be used by pretty
 
 ## Modules
 
-My recommendation sorted by priority.
+My recommendation:
+
+- Damage Stack
+    - This is better than pretty much all other modules and super hard to get, but if you have to sacrifice a lot of main stat and other module levels for it then it's not worth it.
 
 - Strength
 - Elite Damage
-- Agility
-    - Gives flat physical attack, agility and physical damage increase. Agility also increase haste for this class.
 - Attack Speed
     - Higher priority if your attack speed is lower than 20%
-
-
-Not recommended:
-
 - Crit
     - Crit mod gives you hp and Lv6 gives 12% crit damage, assuming you have Muku Chief Lv3 (19% crit dmg) and a 45% crit rate, then the actual increase of this mod would only be `((150 + 19 + 12) / (150 + 19) - 1) * 45% = 3.2%` a 3.2% increase. If your crit rate is lower or Muku Chief level is higher then the increase would be even lower.
+- Agility
+    - Gives flat physical attack, agility and physical damage increase. Agility also increase haste for this class.
 
-Although this is sorted by priority, if you get can 3 level 6s lower priority ones it's still better than getting level 5s high priority ones. Focus on getting 2 level 6 first, then follow the priority list if you can afford to choose, last try to go for 666 or 665 as an end goal.
+Excluding Damage Stack, Strength is better than the rest, the other 4 recommendations are about the same.
+Try to get 2 level 6s first, then try to go for 666 or 665 as an end goal. The additional mainstat from modules is also quite important so don't try to chase a certain level 6 and sacrifice a ton of main stat for it.
 
 ## Updates
 
@@ -534,6 +534,9 @@ Although this is sorted by priority, if you get can 3 level 6s lower priority on
   - Rewrote the old Recommended Build sections, it's now [Recommended Builds By Gear Level](#recommended-builds-by-gear-level).
 - 10/18/25
   - Update [Celestial Flyer](#celestial-flyer) section.
+- 10/20/25
+  - Update [Break Style vs Momentum Surge](#break-style-vs-momentum-surge)
+  - Update [Modules](#modules)
 
 ## Footnote
 
