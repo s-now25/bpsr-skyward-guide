@@ -316,6 +316,8 @@ This is the first day to take 3 sharp instant edge node (red path), but if your 
 
 ##### Day 12, Level 59, Talent Points 64
 
+You can also choose to take Typhoon: Sharp Impact (6 sharp sharp impact) first, instead of Wind Swirl Strike (Tornado 30% dmg) for better rotation, especially if your crit is low.
+
 ![](./assets/skilltree_64.png)
 
 ##### Day 14, Level 60, Talent Points 66
@@ -327,6 +329,8 @@ This is the first day to take 3 sharp instant edge node (red path), but if your 
 ![](./assets/skilltree_68.png)
 
 ##### Day 19, Level 60, Talent Points 70
+
+When your crit is still low you can take Momentum Surge (yellow path), once your crit is up you should switch to Break Style (red path). See [Break Style vs Momentum Surge](#break-style-vs-momentum-surge).
 
 ![](./assets/skilltree_70.png)
 
@@ -537,6 +541,9 @@ Try to get 2 level 6s first, then try to go for 666 or 665 as an end goal. The a
 - 10/20/25
   - Update [Break Style vs Momentum Surge](#break-style-vs-momentum-surge)
   - Update [Modules](#modules)
+- 10/21/25
+  - Update [Day 12, Level 59, Talent Points 64](#day-12-level-59-talent-points-64)
+  - Update [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70)
 
 ## Footnote
 
