@@ -465,9 +465,11 @@ When 20 man dragon raid becomes available (I think around 1 month after server g
 - For this class that means we will get crit and luck
 
 ### Lv60 Gear and Gems
-- Get 6 piece [rune gear](#rune-gear)
-- Reach 40% Crit
-- Reach 20% Attack Speed
+
+- Get 6 piece [rune gear](#rune-gear) if you are lazy.
+- Get 4 piece [rune gear](#rune-gear) if you want to min max, see the chart in [this section](#level-60-rune-gear-and-level-70-red-weapon).
+- Reach 40% Crit.
+- Reach 20% Attack Speed.
 - Slot your gems and reforge your 3rd sub stat on gear based on what stat you are missing, if you have both 40% crit and 20% attack speed then I'd recommended going for haste for more attack speed.
 
 ### Lv80 Gear and Gems
@@ -544,6 +546,8 @@ Try to get 2 level 6s first, then try to go for 666 or 665 as an end goal. The a
 - 10/21/25
   - Update [Day 12, Level 59, Talent Points 64](#day-12-level-59-talent-points-64)
   - Update [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70)
+- 10/27/25
+  - Update [Lv60 Gear and Gems](#lv60-gear-and-gems) to clarify 6pc vs 4pc.
 
 ## Footnote
 
