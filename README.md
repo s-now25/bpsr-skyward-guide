@@ -60,12 +60,16 @@
   * [Rune Gear](#rune-gear)
   * [Lv60 Gear and Gems](#lv60-gear-and-gems)
   * [Lv80 Gear and Gems](#lv80-gear-and-gems)
+* [Attack Speed and Battle Cry Talent (Flag Ult)](#attack-speed-and-battle-cry-talent-flag-ult)
+  * [Battle Cry Tree Options](#battle-cry-tree-options)
+  * [Battle Cry Rotation](#battle-cry-rotation)
 * [Imagines](#imagines)
   * [Whale Imagines](#whale-imagines)
   * [F2P / Low Spender Imagines](#f2p--low-spender-imagines)
   * [Celestial Flyer](#celestial-flyer)
 * [Modules](#modules)
 * [Updates](#updates)
+* [Credit](#credit)
 * [Footnote](#footnote)
 
 ## Video Version of This Guide
@@ -439,7 +443,9 @@ We need 40% crit rate to be able to perform rotation as explained in [40% Crit R
 
 #### Haste
 
-The purpose of stacking haste is to get higher attack speed, each percent of haste gives us 1.6% attack speed. But since raw haste value to haste percent conversion has diminishing return, and attack speed percent increase is linear, it's always better to build straight attack speed if possible.
+The purpose of stacking haste is to get higher attack speed, each percent of haste gives us 1.6% attack speed. ~~But since raw haste value to haste percent conversion has diminishing return, and attack speed percent increase is linear, it's always better to build straight attack speed if possible.~~
+
+Correction: it's not always better to build direct attack speed with gear purple line and modules because damage increase affixes are only available in those places; additionally due to our 1:1.6 conversion rate is much higher than other class, building haste is still very effective.
 
 Direct attack speed percent increase sources:
 - Gear purple line
@@ -474,7 +480,38 @@ When 20 man dragon raid becomes available (I think around 1 month after server g
 
 ### Lv80 Gear and Gems
 - Get 4 piece [rune gear](#rune-gear)
-- TODO: update crit, AS targets
+
+## Attack Speed and Battle Cry Talent (Flag Ult)
+
+This class benefit greatly from attack speed because our entire damage rotation is resource based instead of cooldown based, the only things affected by cooldown are our resource skills: [Galeform](#galeform) and Ult. This means as long as we don't run out of resource, every 1% of attack speed increase can be converted to 1% of dps increase (this statement is not 100% true, there's some nuances, but it's mostly true).
+
+After reaching the minimum 20% attack speed, there are two additional breakpoints:
+- 30% This allows for 6 [Instant Edge](#instant-edge) to fit in the 15s [Galeform Buff](#galeform-buff) window
+- 45% This allows for 7 [Instant Edge](#instant-edge) to fit in the 15s [Galeform Buff](#galeform-buff) window
+
+To do this you have to use [Galeform](#galeform) right before using [Instant Edge](#instant-edge), ideal place to use is after 3x [Skyfall](#skyfall) or after Azure Sever + 1-2x [Skyfall](#skyfall), you can see how I perform this in [Battle Cry Rotation](#battle-cry-rotation).
+
+With 30%+ attack speed, it's recommend to start using the Battle Cry talent.
+
+![](./assets/battlecry.png)
+
+### Battle Cry Tree Options
+
+- Red Path: if you use lv70 weapon
+- Yellow Path: if you don't use lv70 weapon
+    - lv60 weapon with perfect stat can be better than lv70 weapon (Crit/Haste and 3.5% Atk)
+
+![](./assets/flagtree.png)
+
+### Battle Cry Rotation
+
+There are 2 main usage of the flag ult
+- At the start of the fight, used for burst damage boost.
+- At around 1 minute and 2 minute mark, used for courage regen and getting through rotation without [Galeform Buff](#galeform-buff).
+
+Video example of flag rotation
+
+[![](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FewBGMkOk6HU)](https://youtu.be/ewBGMkOk6HU)
 
 ## Imagines
 
@@ -548,6 +585,14 @@ Try to get 2 level 6s first, then try to go for 666 or 665 as an end goal. The a
   - Update [Day 19, Level 60, Talent Points 70](#day-19-level-60-talent-points-70)
 - 10/27/25
   - Update [Lv60 Gear and Gems](#lv60-gear-and-gems) to clarify 6pc vs 4pc.
+- 11/10/25
+  - Correction in [Haste](#haste).
+  - Add new section [Attack Speed and Battle Cry Talent (Flag Ult)](#attack-speed-and-battle-cry-talent-flag-ult).
+  - Add [Credit](#credit) for Old_dodge.
+
+## Credit
+
+Special thanks to Old_dodge. Most of the attack speed findings are from him, you can find his content here: https://space.bilibili.com/15321416/upload/video
 
 ## Footnote
 
