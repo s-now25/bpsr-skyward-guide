@@ -476,7 +476,7 @@ When 20 man dragon raid becomes available (I think around 1 month after server g
 - Get 4 piece [rune gear](#rune-gear) if you want to min max, see the chart in [this section](#level-60-rune-gear-and-level-70-red-weapon).
 - Reach 40% Crit.
 - Reach 20% Attack Speed.
-- Slot your gems and reforge your 3rd sub stat on gear based on what stat you are missing, if you have both 40% crit and 20% attack speed then I'd recommended going for haste for more attack speed.
+- Slot your gems and reforge your 3rd substat on gear based on what stat you are missing, if you have both 40% crit and 20% attack speed then I'd recommended going for haste for more attack speed.
 
 ### Lv80 Gear and Gems
 - Get 4 piece [rune gear](#rune-gear)
@@ -544,20 +544,40 @@ With that being said, Muku Chief is the most versatile, it can be used by pretty
 
 My recommendation:
 
+Only appears in gold modules:
+
 - Damage Stack
     - This is better than pretty much all other modules and super hard to get, but if you have to sacrifice a lot of main stat and other module levels for it then it's not worth it.
+- Life Wave
+    - As long as you can keep your crit as the highest substat it can boost your crit rate by 10% directly. This will be especially strong in season 2 early game when we only have 18-20% crit rate.
+    - If you have versatility as your highest substat at 44.4% (Goblin King 5), then your versatility will become 54.4% when this activates, this is about 3% total damage increase, which is still not bad. Since the damage increase from versatility is its own multiplier, its value doesn't get diminished, unlike the other type of damage increase sources.
+
+Appears in all modules:
 
 - Strength
+    - Better than the ones below.
 - Elite Damage
 - Attack Speed
     - Higher priority if your attack speed is lower than 20%
 - Crit
     - Crit mod gives you hp and Lv6 gives 12% crit damage, assuming you have Muku Chief Lv3 (19% crit dmg) and a 45% crit rate, then the actual increase of this mod would only be `((150 + 19 + 12) / (150 + 19) - 1) * 45% = 3.2%` a 3.2% increase. If your crit rate is lower or Muku Chief level is higher then the increase would be even lower.
-- Agility
+    - Even if the seems low it is still good because there are very little source of crit damage increase in the game (pretty much only this and muku chief). Therefore its value doesn't get diminished, unlike the other type of damage increase sources.
+
+- Agility Boost
+    - Better than nothing, not as good as the ones above but can still consider.
     - Gives flat physical attack, agility and physical damage increase. Agility also increase haste for this class.
 
-Excluding Damage Stack, Strength is better than the rest, the other 4 recommendations are about the same.
+Excluding ones that only appears in gold modules, Strength is better than the rest, the other 4 recommendations are about the same.
 Try to get 2 level 6s first, then try to go for 666 or 665 as an end goal. The additional mainstat from modules is also quite important so don't try to chase a certain level 6 and sacrifice a ton of main stat for it.
+
+Modules that's not good for our class:
+
+- Special Attack
+    - Since tornado is still a significant portion of our damage (and more so in non-single target enviornment), making this module not as good as the ones above.
+- Agile
+    - Since our class is melee and uses strength gear, we are better off tanking most damage and keep dpsing, therefore we cannot take advantage of this module.
+- Luck Focus
+    - Luck damage is still very lacking currently in season 1 for this module to have any real value. Maybe this can be usable in season 2 when tornado triggered lucky hit becomes available, but further testing needs to be done before any conclusion can be made.
 
 ## Updates
 
@@ -589,6 +609,8 @@ Try to get 2 level 6s first, then try to go for 666 or 665 as an end goal. The a
   - Correction in [Haste](#haste).
   - Add new section [Attack Speed and Battle Cry Talent (Flag Ult)](#attack-speed-and-battle-cry-talent-flag-ult).
   - Add [Credit](#credit) for Old_dodge.
+- 11/17/25
+  - Update [Modules](#modules)
 
 ## Credit
 
