@@ -58,8 +58,7 @@
     * [Haste](#haste)
     * [Luck](#luck)
   * [Rune Gear](#rune-gear)
-  * [Lv60 Gear and Gems](#lv60-gear-and-gems)
-  * [Lv80 Gear and Gems](#lv80-gear-and-gems)
+  * [Gear Purple Lines](#gear-purple-lines)
 * [Attack Speed and Battle Cry Talent (Flag Ult)](#attack-speed-and-battle-cry-talent-flag-ult)
   * [Battle Cry Tree Options](#battle-cry-tree-options)
   * [Battle Cry Rotation](#battle-cry-rotation)
@@ -405,7 +404,8 @@ Momentum Surge's effect is not active whenever we go in the air because we fly t
 
 #### Level 80 Gear Build
 
-TODO:
+Level 80 [rune gear](#rune-gear) has the same effects as the level 60 ones, and Level 90 red weapon has the same effects as Level 70, so for the most part you can just follow the [level 60 section](#level-60-rune-gear-and-level-70-red-weapon).
+Level 80 gear has more stat, making it easier to reach target break point on crit and attack speed, thus giving more flexibility in choosing gear pieces, you can have more freedom to choose gear pieces that has the better [Purple Line](#gear-purple-lines)
 
 ## Rotation
 
@@ -470,16 +470,26 @@ When 20 man dragon raid becomes available (I think around 1 month after server g
 - These gears will not have a purple line, and instead have a 2 piece and 4 piece set effect, these effects are different for different classes.
 - For this class that means we will get crit and luck
 
-### Lv60 Gear and Gems
+### Gear Purple Lines
 
-- Get 6 piece [rune gear](#rune-gear) if you are lazy.
-- Get 4 piece [rune gear](#rune-gear) if you want to min max, see the chart in [this section](#level-60-rune-gear-and-level-70-red-weapon).
-- Reach 40% Crit.
-- Reach 20% Attack Speed.
-- Slot your gems and reforge your 3rd substat on gear based on what stat you are missing, if you have both 40% crit and 20% attack speed then I'd recommended going for haste for more attack speed.
+From best to worst, if it's not listed then it's not worth considering.
 
-### Lv80 Gear and Gems
-- Get 4 piece [rune gear](#rune-gear)
+Helmet, Armor, Gloves, Boots, L/R Bracelet:
+- 1.5% > 1% > 0.5% Strength
+
+Weapon, Earing, Necklace, Ring, Charm:
+- Atk
+- Elite Damage
+- Melee Damage
+    - Elite Damage and Melee Damage belongs to the same multiplier, but Elite Damage applies to all damage sources and Melee Damage does not, thus Elite > Melee
+- Attack Speed
+    - This can be higher if you need it to reach one of the attack speed breakpoints outlined in [Attack Speed and Battle Cry Talent (Flag Ult)](#attack-speed-and-battle-cry-talent-flag-ult).
+
+For Weapon the values are:
+- 3.5% > 3% > 2.5%
+
+For Earing, Necklace, Ring, Charm the values are:
+- 2% > 1.5% > 1%
 
 ## Attack Speed and Battle Cry Talent (Flag Ult)
 
@@ -611,6 +621,10 @@ Modules that's not good for our class:
   - Add [Credit](#credit) for Old_dodge.
 - 11/17/25
   - Update [Modules](#modules)
+- 11/22/25
+  - Update [Level 80 Gear Build](#level-80-gear-build)
+  - Added [Gear Purple Lines](#gear-purple-lines)
+  - Removed [Lv60 Gear and Gems](#lv60-gear-and-gems) and [Lv80 Gear and Gems](#lv80-gear-and-gems) as the information is explained in detail in other sections.
 
 ## Credit
 
