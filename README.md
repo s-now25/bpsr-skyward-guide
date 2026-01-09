@@ -1,5 +1,9 @@
 # BPSR: Skyward (Aerial) Wind Knight Comprehensive Guide
 
+[Season 2 Guide Here !!](S2.md#bpsr-skyward-aerial-wind-knight-season-2-guide)
+
+Below is for season 1 and the basics of the class
+
 * [Video Version of This Guide](#video-version-of-this-guide)
 * [Intro](#intro)
 * [Skills](#skills)
